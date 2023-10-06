@@ -1,0 +1,325 @@
+[
+  {
+    "question": "Gillar du att vara ute? ja/nej: ",
+    "svar": {
+      "ja": {
+        "hund": 5,
+        "katt": 2,
+        "kanin": 3,
+        "fisk": 1
+      },
+      "nej": {
+        "hund": 2,
+        "katt": 5,
+        "kanin": 3,
+        "fisk": 1
+      }
+    }
+  },
+  {
+    "question": " Hade du ett husdjur när du var yngre, Svara med ja/nej?: ",
+    "svar": {
+      "ja": {
+        "hund": 5,
+        "katt": 2,
+        "kanin": 3,
+        "fisk": 1
+      },
+      "nej": {
+        "hund": 2,
+        "katt": 5,
+        "kanin": 3,
+        "fisk": 1
+      }
+    }
+  },
+  {
+    "question": " Gillar du att klä dina husdjur, Svara med ja/nej?: ",
+    "svar": {
+      "ja": {
+        "hund": 5,
+        "katt": 3,
+        "kanin": 0,
+        "fisk": 1
+      },
+      "nej": {
+        "hund": 2,
+        "katt": 2,
+        "kanin": 3,
+        "fisk": 3
+      }
+    }
+  },
+  {
+    "question": " Gillar du att resa med ditt husdjur: Svara med ja/nej: ",
+    "svar": {
+      "ja": {
+        "hund": 4,
+        "katt": 3,
+        "kanin": 2,
+        "fisk": 1
+      },
+      "nej": {
+        "hund": 2,
+        "katt": 2,
+        "kanin": 1,
+        "fisk": 3
+      }
+    }
+  },
+  {
+    "question": " Gillar uppmärksamhet krvävande husdjur; Svara med ja/nej: ",
+    "svar": {
+      "ja": {
+        "hund": 4,
+        "katt": 3,
+        "kanin": 1,
+        "fisk": 1
+      },
+      "nej": {
+        "hund": 2,
+        "katt": 1,
+        "kanin": 2,
+        "fisk": 3
+      }
+    }
+  },
+  {
+    "question": " Vill du att ditt husdjur sover med dig: Svara med ja/nej: ",
+    "svar": {
+      "ja": {
+        "hund": 4,
+        "katt": 2,
+        "kanin": 1,
+        "fisk": 1
+      },
+      "nej": {
+        "hund": 2,
+        "katt": 2,
+        "kanin": 4,
+        "fisk": 4
+      }
+    }
+  },
+  {
+    "question": " Vill du ha ett uttrymme detikerat till ditt husdjur: ja/nej:  ",
+    "svar": {
+      "ja": {
+        "hund": 4,
+        "katt": 3,
+        "kanin": 2,
+        "fisk": 1
+      },
+      "nej": {
+        "hund": 2,
+        "katt": 2,
+        "kanin": 3,
+        "fisk": 4
+      }
+    }
+  },
+  {
+    "question": " Vill du göra sportrelaterade akiviter med ditt husdjur: ja/nej: ",
+    "svar": {
+      "ja": {
+        "hund": 5,
+        "katt": 3,
+        "kanin": 2,
+        "fisk": 1
+      },
+      "nej": {
+        "hund": 2,
+        "katt": 2,
+        "kanin": 2,
+        "fisk": 3
+      }
+    }
+  },
+  {
+    "question": " Tycker du om publicera bilder av ditt husdjur på sociala medier? ja/nej: ",
+    "svar": {
+      "ja": {
+        "hund": 3,
+        "katt": 3,
+        "kanin": 3,
+        "fisk": 3
+      },
+      "nej": {
+        "hund": 2,
+        "katt": 2,
+        "kanin": 3,
+        "fisk": 1
+      }
+    }
+  },
+  {
+    "question": " Har du någonsin förlorat ett husdjur: ja/nej: ",
+    "svar": {
+      "ja": {
+        "hund": 1,
+        "katt": 2,
+        "kanin": 3,
+        "fisk": 4
+      },
+      "nej": {
+        "hund": 3,
+        "katt": 3,
+        "kanin": 3,
+        "fisk": 3
+      }
+    }
+  },
+  {
+    "question": " Kommer du att kunna mata ditt husdjur ofta; ja/nej: ",
+    "svar": {
+      "ja": {
+        "hund": 3,
+        "katt": 3,
+        "kanin": 1,
+        "fisk": 1
+      },
+      "nej": {
+        "hund": 2,
+        "katt": 3,
+        "kanin": 2,
+        "fisk": 2
+      }
+    }
+  },
+  {
+    "question": " Jobbar du just nu? ja/nej: ",
+    "svar": {
+      "ja": {
+        "hund": 3,
+        "katt": 3,
+        "kanin": 2,
+        "fisk": 4
+      },
+      "nej": {
+        "hund": 1,
+        "katt": 2,
+        "kanin": 3,
+        "fisk": 1
+      }
+    }
+  },
+  {
+    "question": " Har du efter skola/jobb aktiviter: ja/nej?: ",
+    "svar": {
+      "ja": {
+        "hund": 5,
+        "katt": 2,
+        "kanin": 3,
+        "fisk": 1
+      },
+      "nej": {
+        "hund": 2,
+        "katt": 5,
+        "kanin": 3,
+        "fisk": 1
+      }
+    }
+  },
+  {
+    "question": " Behöver du extra sällskap: ja/nej?: ",
+    "svar": {
+      "ja": {
+        "hund": 5,
+        "katt": 2,
+        "kanin": 3,
+        "fisk": 1
+      },
+      "nej": {
+        "hund": 3,
+        "katt": 2,
+        "kanin": 1,
+        "fisk": 1
+      }
+    }
+  },
+  {
+    "question": " Vill du ha ett husdjur som redan har barn och adoptera dem också: ja/nej: ",
+    "svar": {
+      "ja": {
+        "hund": 3,
+        "katt": 2,
+        "kanin": 2,
+        "fisk": 1
+      },
+      "nej": {
+        "hund": 2,
+        "katt": 2,
+        "kanin": 1,
+        "fisk": 1
+      }
+    }
+  },
+  {
+    "question": " Kan du tänka dig att din budjet för ditt husdjur överstiger 2 tusen per mån: ja/nej: ",
+    "svar": {
+      "ja": {
+        "hund": 3,
+        "katt": 3,
+        "kanin": 4,
+        "fisk": 2
+      },
+      "nej": {
+        "hund": 2,
+        "katt": 3,
+        "kanin": 1,
+        "fisk": 2
+      }
+    }
+  },
+  {
+    "question": " Vill du låta ditt husdjur gå ute utan kopell: ja/nej: ",
+    "svar": {
+      "ja": {
+        "hund": 4,
+        "katt": 4,
+        "kanin": 4,
+        "fisk": 4
+      },
+      "nej": {
+        "hund": 2,
+        "katt": 2,
+        "kanin": 2,
+        "fisk": 2
+      }
+    }
+  },
+  {
+    "question": "Tycker du om högljuda husdjur: ja/nej: ",
+    "svar": {
+      "ja": {
+        "hund": 5,
+        "katt": 3,
+        "kanin": 1,
+        "fisk": 1
+      },
+      "nej": {
+        "hund": 1,
+        "katt": 1,
+        "kanin": 3,
+        "fisk": 5
+      }
+    }
+  },
+  {
+    "question": " Har du tålamod? ja/nej: ",
+    "svar": {
+      "ja": {
+        "hund": 5,
+        "katt": 3,
+        "kanin": 4,
+        "fisk": 4
+      },
+      "nej": {
+        "hund": 2,
+        "katt": 3,
+        "kanin": 2,
+        "fisk": 2
+      }
+    }
+  }
+]
